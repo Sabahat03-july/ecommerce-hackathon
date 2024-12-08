@@ -15,7 +15,7 @@ export function GearUp() {
           name: "Nike Dri-FIT Challenger",
           description: "Men's 18cm (approx.) 2-in-1 Versatile Shorts",
           price: "₹ 2,495",
-          image: "/ShortMen.jpg",
+          image: "/shortMen.jpg",
         },
       ],
     },
