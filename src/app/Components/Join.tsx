@@ -66,7 +66,7 @@ export default function JoinUs() {
         </div>
 
         {/* Birthday Reward Notice */}
-        <p className="text-xs text-gray-600 mb-6">
+        <p className="text-xs text-gray-700 mb-6">
           Get a Nike Member Reward every year on your Birthday.
         </p>
 
@@ -92,7 +92,7 @@ export default function JoinUs() {
               value="male"
               className="w-4 h-4 border-gray-300 focus:ring-2 focus:ring-gray-500"
             />
-            <span className="ml-2 text-gray-600">Male</span>
+            <span className="ml-2 text-gray-700">Male</span>
           </label>
           <label className="flex items-center">
             <input
@@ -101,7 +101,7 @@ export default function JoinUs() {
               value="female"
               className="w-4 h-4 border-gray-300 focus:ring-2 focus:ring-gray-500"
             />
-            <span className="ml-2 text-gray-600">Female</span>
+            <span className="ml-2 text-gray-700">Female</span>
           </label>
         </div>
 
@@ -111,7 +111,7 @@ export default function JoinUs() {
             type="checkbox"
             className="w-4 h-4 border-gray-300 focus:ring-2 focus:ring-gray-500"
           />
-          <span className="text-sm text-gray-600">
+          <span className="text-sm text-gray-700">
             Sign up for emails to get updates from Nike on products, offers, and your Member benefits.
           </span>
         </label>
@@ -138,7 +138,7 @@ export default function JoinUs() {
       </form>
 
       {/* Already a Member */}
-      <p className="mt-6 text-sm text-gray-600">
+      <p className="mt-6 text-sm text-gray-700">
         Already a member?{' '}
         <a href="/sign-in" className="font-semibold underline hover:text-black">
           Sign In
